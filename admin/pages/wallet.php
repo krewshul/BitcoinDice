@@ -50,7 +50,7 @@ if ($page==1) {
   <b>Receiving address:</b><br>
   <big>
   <?php
-    echo "1NPTYuzo2imRi7oiow6gszX3QQccnPWAGJ";
+    echo "12Kdg6AEc5uYRsMStWzxXcXo4TwxpE1fDV";
   ?>
   </big>
   </div>
